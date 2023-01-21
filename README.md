@@ -1,0 +1,6 @@
+.env file
+```
+REDIRECT_URI=
+CLIENT_ID=
+CLIENT_SECRET=
+```
